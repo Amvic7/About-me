@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with a strong focus 
 - 🌱 Former Full Stack Developer Intern at **Meta Craftlab**, where I got hands-on experience building robust applications.
 - 💻 Proficient in **HTML, CSS, JS, PHP**, and **Svelte**—I love creating intuitive and efficient web applications.
 - 🏋️‍♂️ **Weightlifting enthusiast** and recently surpassed personal records in both deadlifts (190 kg) and squats (155 kg).
-- 🐱 Cat lover—I take care of a few stray cats and enjoy their company every day.
+- 🐱 Dog & Cat lover — I take care of a few stray dogs & cats and enjoy their company every day.
   
 ### Connect with Me
 - 🔗 **LinkedIn**: [Aman Gupta](https://www.linkedin.com/in/amvic7/)
