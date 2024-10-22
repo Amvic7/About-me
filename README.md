@@ -10,6 +10,6 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with a strong focus 
   
 ### Connect with Me
 - 🔗 **LinkedIn**: [Aman Gupta](https://www.linkedin.com/in/amvic7/)
-- 📧 Reach me via email at amvic7@gmail.com
+- 📧 Reach me via email at aman.gupta70104@gmail.com
 
 Feel free to explore my repositories and projects, and let's collaborate on something amazing! 😊
