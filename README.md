@@ -1,6 +1,6 @@
 # Hello, World! 🌍 I'm Aman Gupta
 
-![Cool Coder Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Techy Image](https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80)
 
 Welcome to my corner of the internet, where code meets creativity! 🎨 Whether it's solving problems with algorithms or lifting heavy at the gym, I'm always pushing my limits.
 
@@ -8,7 +8,7 @@ Welcome to my corner of the internet, where code meets creativity! 🎨 Whether 
 - 🔧 **Full Stack Developer** with a passion for bringing ideas to life through code.
 - 🌟 Former intern at **Meta Craftlab**, where I learned the magic of building seamless applications.
 - 💡 Proficient in **Python, C, C++, HTML, CSS, JS, PHP**, and **Svelte**—making full-stack development my playground.
-- 🏋️‍♂️ Fitness and strength are key in life and code! Recently hit a personal best: **200 kg deadlift** and **160 kg squat** 💪.
+- 🏋️‍♂️ Fitness and strength are key in life and code! Recently hit a personal best: **190 kg deadlift** and **155 kg squat** 💪.
 - 🐱 Lover of cats—taking care of my daily visitors who never fail to touch my heart (and feet).
 
 ## 🛠️ Tech Stack
@@ -25,6 +25,7 @@ Welcome to my corner of the internet, where code meets creativity! 🎨 Whether 
 
 ## 🔗 Let's Connect!
 - 👔 [LinkedIn](https://www.linkedin.com/in/amvic7/)
+- [X](https://x.com/Amvic_7)
 - 📧 Drop me an email at: aman.gupta70104@gmail.com
 - 🎯 Check out my work: [GitHub](https://github.com/Amvic7)
 
