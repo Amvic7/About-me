@@ -1,4 +1,4 @@
-# Hello, World! 🌍 I'm Aman Gupta
+# Hello, World! 🌍
 
 ![Aman Gupta Image](https://github.com/Amvic7/Amvic7/raw/main/aman.png)
 
