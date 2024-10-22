@@ -1,5 +1,7 @@
 # Hello, World! 🌍 I'm Aman Gupta
 
+![Aman Gupta Image](https://github.com/Amvic7/Amvic7/raw/main/C:\Users\amang\Downloads\aman(4).png/aman.png)
+
 Welcome to my corner of the internet, where code meets creativity! 🎨 Whether it's solving problems with algorithms or lifting heavy at the gym, I'm always pushing my limits.
 
 ## 👨‍💻 About Me
@@ -14,6 +16,7 @@ Welcome to my corner of the internet, where code meets creativity! 🎨 Whether 
 ![HTML Badge](https://img.shields.io/badge/HTML5-🔶-orange?logo=html5)
 ![CSS Badge](https://img.shields.io/badge/CSS-🔵-blue?logo=css3)
 ![JS Badge](https://img.shields.io/badge/JavaScript-💛-yellow?logo=javascript)
+![C++](https://img.shields.io/badge/C++-💛-yellow?logo=C++)
 
 ---
 
@@ -23,8 +26,8 @@ Welcome to my corner of the internet, where code meets creativity! 🎨 Whether 
 
 ## 🔗 Let's Connect!
 - 👔 [LinkedIn](https://www.linkedin.com/in/amvic7/)
-- [X](https://x.com/Amvic_7)
 - 📧 Drop me an email at: aman.gupta70104@gmail.com
+- 🐦 [X](https://x.com/Amvic_7)
 - 🎯 Check out my work: [GitHub](https://github.com/Amvic7)
 
 ---
