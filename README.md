@@ -1,6 +1,6 @@
 # Hello, World! 🌍 I'm Aman Gupta
 
-![Coder GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+![Cool Coder Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 Welcome to my corner of the internet, where code meets creativity! 🎨 Whether it's solving problems with algorithms or lifting heavy at the gym, I'm always pushing my limits.
 
