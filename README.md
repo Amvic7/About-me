@@ -1,6 +1,7 @@
 # Hello, World! 🌍 I'm Aman Gupta
 
-![Aman Gupta Image](https://github.com/Amvic7/Amvic7/C:\Users\amang\Downloads\aman(4))
+![Aman Gupta Image](https://github.com/Amvic7/Amvic7/raw/main/aman.png)
+
 
 Welcome to my corner of the internet, where code meets creativity! 🎨 Whether it's solving problems with algorithms or lifting heavy at the gym, I'm always pushing my limits.
 
