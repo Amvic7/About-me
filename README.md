@@ -1,7 +1,5 @@
 # Hello, World! 🌍 I'm Aman Gupta
 
-![Techy Image](https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80)
-
 Welcome to my corner of the internet, where code meets creativity! 🎨 Whether it's solving problems with algorithms or lifting heavy at the gym, I'm always pushing my limits.
 
 ## 👨‍💻 About Me
